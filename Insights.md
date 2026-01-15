@@ -1,4 +1,4 @@
-# 📊 PizzaHut SQL Analysis – Key Insights
+# 📊 Pizza Sales SQL Analysis – Key Insights
 
 This document summarizes the **business insights derived from SQL analysis** performed on PizzaHut sales data.  
 The analysis focuses on sales performance, customer behavior, product trends, and revenue contribution.
